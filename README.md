@@ -11,7 +11,8 @@
 | 有线网卡 | Realtek8111千兆内置卡 |
 | 声卡 | 威盛VIA VT1708S  | 
 
-![](https://github.com/littlestar202/P8B75-M-lx-E3-1230V2-Sonoma-opencore/blob/main/picture/7C42A266A5CF5250ECB4C2D05C6E51B9.png)
+![](https://github.com/littlestar202/P8B75-M-lx-E3-1230V2-Sonoma-opencore/blob/main/picture/9E110D5EDCCAC9A6783BD80F481C3BE3.png)
+![]
 ## BIOS 配置
 
 请在高级模式（advanced mode）下配置
