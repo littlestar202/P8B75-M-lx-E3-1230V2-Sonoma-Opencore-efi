@@ -12,7 +12,9 @@
 | 声卡 | 威盛VIA VT1708S  | 
 
 ![](https://github.com/littlestar202/P8B75-M-lx-E3-1230V2-Sonoma-opencore/blob/main/picture/9E110D5EDCCAC9A6783BD80F481C3BE3.png)
+![](https://github.com/littlestar202/P8B75-M-lx-E3-1230V2-Sonoma-opencore/blob/main/picture/0D587B1204F5F85C4AD575915009056B.png)
 ![]
+
 ## BIOS 配置
 
 请在高级模式（advanced mode）下配置
