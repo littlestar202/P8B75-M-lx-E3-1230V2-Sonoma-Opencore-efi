@@ -1,4 +1,4 @@
-## **ASUS-P8B75M-LX  hackintosh**
+## **ASUS-P8B75M-LX  hackintosh Sonoma**
 ## **本机配置**
 
 | CPU | E3-1230V2 |
