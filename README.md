@@ -48,4 +48,6 @@ CSM：关闭（如果显卡BIOS不支持UEFI则无法关闭）
 目前只测试了机箱后面主板上的插孔 前置机箱未测试
 
 ## 注意⚠️！！！
-需要把OC/kext中的万能声卡驱动Voodoohda.kext复制到S/E下重建缓存才能驱动
+需要把OC/kext中的万能声卡驱动VoodooHDA.kext复制到S/E下重建缓存才能驱动
+
+## **差不多配置的主机 声卡是ALC系列请删除万能声卡VoodooHDA.kext和AppleHDADisabler.kext自行搜索后注入声卡ID 配置文件也别忘了改**
