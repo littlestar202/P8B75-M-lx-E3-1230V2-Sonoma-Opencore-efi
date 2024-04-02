@@ -25,6 +25,7 @@
 处理器设置-开启超线程(Hyper-threading) 和Intel虚拟技术
 
 南桥-关闭intel快速启动(Intel Rapid Start)和智能连接(Intel Smart Connect) 
+
  **SATA** 设置 
 ****SATA**** 模式选择： ****AHCI**** 
 
