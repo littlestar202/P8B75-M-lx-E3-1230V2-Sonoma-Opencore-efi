@@ -51,3 +51,8 @@ CSM：关闭（如果显卡BIOS不支持UEFI则无法关闭）
 需要把OC/kext中的万能声卡驱动VoodooHDA.kext复制到S/E下重建缓存才能驱动
 
 ## **差不多配置的主机 声卡是ALC系列请删除万能声卡VoodooHDA.kext和AppleHDADisabler.kext 改用AppleALC.kext自行搜索后注入声卡ID 配置文件也别忘了改**
+
+# 开机紫屏请下载   **紫屏注入EDID.zip** 详细操作请查看紫屏帮助.txt
+
+# 出现开机第二屏死机 或者进系统死机的请把启动参数添加-amd_no_dgpu_accel
+然后使用OCLP装完驱动后再去掉-amd_no_dgpu_accel即可正常
