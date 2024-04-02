@@ -54,6 +54,6 @@ CSM：关闭（如果显卡BIOS不支持UEFI则无法关闭）
 
 # 开机紫屏请下载   **紫屏注入EDID.zip** 详细操作请查看紫屏帮助.txt
 
-# 出现开机第二屏死机 或者进系统死机的请把启动参数添加-amd_no_dgpu_accel
+# 出现开机第二屏死机 或者进系统死机的请把启动参数添加 -amd_no_dgpu_accel
 
 然后使用[OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/)装完驱动后再去掉-amd_no_dgpu_accel即可正常
