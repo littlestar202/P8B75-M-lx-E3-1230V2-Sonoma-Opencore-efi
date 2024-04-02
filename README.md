@@ -22,10 +22,9 @@
 请在高级模式（advanced mode）下配置
 
 ### **高级页面**
-处理器设置-开启超线程、Intel虚拟技术
+处理器设置-开启超线程(Hyper-threading) 和Intel虚拟技术
 
-南桥-关闭intel快速启动、intel智能连接
- 
+南桥-关闭intel快速启动(Intel Rapid Start)和智能连接(Intel Smart Connect) 
  **SATA** 设置 
 ****SATA**** 模式选择： ****AHCI**** 
 
@@ -39,7 +38,7 @@ USB设置-intel xhci 模式：开启
 
 快速启动：关闭
 
-CSM：关闭（如果显卡BIOS不支持UEFI则无法关闭）
+CSM：关闭（如果显卡vBIOS不支持UEFI则无法关闭）
 
 ## **目前工作情况**
 测试在Sonoma14.4.1正常运行 请修改三码后使用
