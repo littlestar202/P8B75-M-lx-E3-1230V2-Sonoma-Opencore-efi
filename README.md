@@ -26,7 +26,7 @@
 
 南桥-关闭intel快速启动(Intel Rapid Start)和智能连接(Intel Smart Connect) 
 
- **SATA** 设置 
+ **SATA** 设置 -
 ****SATA**** 模式选择： ****AHCI**** 
 
 北桥-内存重寻址功能（above 4g）：开启
